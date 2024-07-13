@@ -1,1 +1,2 @@
-# My_first_project
+# Aula TIC trilhas Github
+Repositoria para as aulas de Github
